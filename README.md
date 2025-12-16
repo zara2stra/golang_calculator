@@ -1,2 +1,11 @@
 # golang_calculator
-A simple command line calculator written in golang
+
+A simple CLI calculator written in Go.
+
+## Usage
+
+```bash
+go run gloang_calculator.go -s 3
+
+## Options
+-s number of seconds for the thinking animation
